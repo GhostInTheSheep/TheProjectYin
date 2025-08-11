@@ -1,0 +1,86 @@
+[
+    {
+        "name": "shizuku",
+        "description": "",
+        "url": "/live2d-models/shizuku/shizuku.model.json",
+        "kScale": 0.5,
+        "initialXshift": 0,
+        "initialYshift": 0,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "Idle",
+        "emotionMap": {
+            "neutral": 0,
+            "anger": 2,
+            "disgust": 2,
+            "fear": 1,
+            "joy": 3,
+            "smirk": 3,
+            "sadness": 1,
+            "surprise": 3
+        },
+        "tapMotions": {
+            "HitAreaHead": {
+                "": 1
+            },
+            "HitAreaBody": {
+                "": 1
+            }
+        }
+    },
+    {
+        "name": "nito",
+        "description": "超轻量级Live2D模型，专为树莓派等低性能设备优化",
+        "url": "/live2d-models/assets-nito/nito.model.json",
+        "kScale": 0.5,
+        "initialXshift": 0,
+        "initialYshift": 0,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "idle",
+        "emotionMap": {
+            "neutral": 0,
+            "anger": 2,
+            "disgust": 2,
+            "fear": 3,
+            "joy": 1,
+            "smirk": 5,
+            "sadness": 8,
+            "surprise": 4
+        },
+        "tapMotions": {
+            "HitAreaHead": {
+                "": 0
+            },
+            "HitAreaBody": {
+                "": 0
+            }
+        }
+    },
+    {
+        "name": "bloodsucker",
+        "description": "吸血鬼公主Live2D模型，神秘而优雅",
+        "url": "/live2d-models/bloodsucker/bloodsucker.model3.json",
+        "kScale": 0.5,
+        "initialXshift": 0,
+        "initialYshift": 0,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "Scene1",
+        "emotionMap": {
+            "neutral": "neutral",
+            "anger": "anger",
+            "disgust": "disgust",
+            "fear": "fear",
+            "joy": "joy",
+            "smirk": "smirk",
+            "sadness": "sadness",
+            "surprise": "surprise"
+        },
+        "tapMotions": {
+            "HitAreaHead": {
+                "Scene1": 0
+            },
+            "HitAreaBody": {
+                "Scene1": 0
+            }
+        }
+    }
+]

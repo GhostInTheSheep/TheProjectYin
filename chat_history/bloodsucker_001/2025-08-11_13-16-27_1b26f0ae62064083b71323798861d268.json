@@ -1,0 +1,95 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-08-11T13:16:27"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:16:47",
+    "content": "",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T13:16:47",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:16:55",
+    "content": "",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T13:16:55",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:16:57",
+    "content": "こんにちは！です。何かお手伝いできることはありますか？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:17:06",
+    "content": "こんにちは！[joy] 何かお手伝いできることがあれば教えてください！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:17:22",
+    "content": "名前意かが分かりますか。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:17:31",
+    "content": "申し訳ありませんが、名前の情報はわかりません。[sadness] 他にお手伝いできることがありますか？",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:17:36",
+    "content": "播放一号洗衣机的照程。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:17:49",
+    "content": "稍等，我马上为您查找教程。かしこまりました。1番洗濯機の使用方法をご案内いたします。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:17:56",
+    "content": "I wanna wash my clothes.",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:18:04",
+    "content": "Sure![joy] Do you need help with a specific washing machine?",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:18:11",
+    "content": "S me play the video Mo 1.",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:18:21",
+    "content": "Here's the tutorial for washing machine 1.[joy] You can watch it [here](sandbox:/videos/1test.mp4).",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  }
+]

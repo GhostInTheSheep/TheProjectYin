@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+ai-env/
+logs/
+cache/
+*.log
+*.sqlite*
+.env
+conf.yaml
+assets/
+ads/
+live2d-models/
+models/
+videos/
+frontend/

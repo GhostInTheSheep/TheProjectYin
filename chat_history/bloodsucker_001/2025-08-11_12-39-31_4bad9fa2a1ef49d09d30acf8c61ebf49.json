@@ -1,0 +1,117 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-08-11T12:39:31"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:39:53",
+    "content": "こんにちは！です。何かお手伝いできることはありますか？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:40:00",
+    "content": "こんにちは！[joy] お手伝いできることがあれば、何でもお知らせください！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:40:00",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:40:02",
+    "content": "那我的名字吗？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:40:12",
+    "content": "抱歉，我还不知道您的名字。[neutral] 请您告诉我吧！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:40:12",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:40:15",
+    "content": "君の名前は何ですか？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:40:28",
+    "content": "私の名前はありませんが、あなたのお手伝いをするためにここにいます！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:40:28",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:40:31",
+    "content": "呃，播放一下一号洗衣机的教程。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:40:44",
+    "content": "稍等，我马上为您查找教程。かしこまりました。1番洗濯機の使用方法をご案内いたします。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:40:54",
+    "content": "真呢。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:41:00",
+    "content": "是的！[neutral] 有什么我可以帮助您的吗？",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:41:03",
+    "content": "声啦。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:41:09",
+    "content": "抱歉让您失望了！[sadness] 请问有什么我可以为您做的呢？",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:41:09",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:41:11",
+    "content": "好的，再见！有需要随时叫我。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:41:17",
+    "content": "再见！[joy] 随时欢迎您回来！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  }
+]

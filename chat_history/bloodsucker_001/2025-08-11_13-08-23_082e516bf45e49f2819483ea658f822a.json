@@ -1,0 +1,112 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-08-11T13:08:23"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:08:41",
+    "content": "",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T13:08:41",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:08:43",
+    "content": "こんにちは！です。何かお手伝いできることはありますか？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:08:51",
+    "content": "こんにちは！[joy] お手伝いできることがあれば、ぜひ教えてください！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:08:56",
+    "content": "しか先コの使をして。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:09:09",
+    "content": "ご利用可能な洗濯機は以下の通りです：[neutral] \\n1番洗濯機 - 1test\\n2番洗濯機 - 2test。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T13:09:09",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:09:12",
+    "content": "好的，就这一个视频给我播放一下吧。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:09:25",
+    "content": "正在播放广告：[joy] 名称：test2，文件名：test2.mp4。请稍等！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:09:34",
+    "content": "停播放。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:09:43",
+    "content": "广告已停止播放。[neutral] 如果您需要其他帮助，请告诉我！",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T13:09:43",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:09:46",
+    "content": "请播放一号洗衣机的视频。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:09:58",
+    "content": "稍等，我马上为您查找教程。かしこまりました。1番洗濯機の使用方法をご案内いたします。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:10:04",
+    "content": "请播放2号洗衣机的视频。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T13:10:17",
+    "content": "稍等，我马上为您查找教程。かしこまりました。2番洗濯機の使用方法をご案内いたします。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T13:10:38",
+    "content": "好的，再见！有需要随时叫我。",
+    "name": "Human"
+  }
+]

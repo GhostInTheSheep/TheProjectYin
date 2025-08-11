@@ -1,0 +1,20 @@
+{
+  "mcp_servers": {
+    "laundry-assistant": {
+      "command": "/opt/codes/TheProjectYin/ai-env/bin/python",
+      "args": ["-m", "src.solvia_for_chat.mcpp.laundry_server", "--videos-dir=videos"],
+      "env": {
+        "PYTHONPATH": "."
+      },
+      "timeout": 30
+    },
+    "advertisement-server": {
+      "command": "/opt/codes/TheProjectYin/ai-env/bin/python",
+      "args": ["-m", "src.solvia_for_chat.mcpp.advertisement_server", "--ads-dir=ads"],
+      "env": {
+        "PYTHONPATH": "."
+      },
+      "timeout": 30
+    }
+  }
+}

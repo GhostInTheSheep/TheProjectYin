@@ -1,0 +1,54 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-08-11T12:58:10"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:58:31",
+    "content": "",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:58:31",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:58:33",
+    "content": "こんにちは！です。何かお手伝いできることはありますか？",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:58:36",
+    "content": "",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:58:36",
+    "content": "[Interrupted by user]"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-08-11T12:58:40",
+    "content": "然后这个就可以有了，然后完了之后播放一下一号洗衣机的广告。",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-08-11T12:58:52",
+    "content": "稍等，我马上为您查找教程。かしこまりました。1番洗濯機の使用方法をご案内いたします。",
+    "name": "Bloodsucker",
+    "avatar": "bloodsucker.png"
+  },
+  {
+    "role": "system",
+    "timestamp": "2025-08-11T12:58:52",
+    "content": "[Interrupted by user]"
+  }
+]
