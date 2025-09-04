@@ -28,8 +28,8 @@ class AudioRecorder {
                 }
             });
 
-            // Request data every 1000ms for low-latency streaming
-            this.mediaRecorder.start(1000);
+            // Request data every 500ms for low-latency streaming
+            this.mediaRecorder.start(500);
             return true;
         } catch (error) {
             console.error("Error starting recording:", error);

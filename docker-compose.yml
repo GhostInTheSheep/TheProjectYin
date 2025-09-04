@@ -1,0 +1,29 @@
+version: "3.9"
+
+services:
+  backend:
+    build: .
+    container_name: theprojectyin-backend
+    restart: unless-stopped
+    ports:
+      - "12393:12393"
+    environment:
+      PYTHONPATH: "."
+      # 根据需要启用以下密钥
+      # OPENAI_API_KEY: "sk-xxx"
+      # FISH_API_KEY: "xxx"
+    volumes:
+      - ./conf.yaml:/app/conf.yaml:ro
+      - ./mcp_servers.json:/app/mcp_servers.json:ro
+      - ./ads:/app/ads:ro
+      - ./videos:/app/videos:ro
+      - ./live2d-models:/app/live2d-models:ro
+      - ./avatars:/app/avatars:ro
+      # 可选：持久化服务运行中产生的音频等缓存
+      - ./cache:/app/cache
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -o /dev/null http://localhost:12393/web-tool || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
